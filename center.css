@@ -1,0 +1,12 @@
+.center
+{
+justify-content:center;
+align-items:center;
+position:center;
+margin: auto;
+left:70%;
+width:50%;
+transform:translate(-50%);
+justify-self:center;
+}
+
